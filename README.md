@@ -6,7 +6,7 @@ Install project dengan git clone
 ```bash
 git clone  https://github.com/disiulina/Network-Tool.git/
 ```
-Masuk ke direktory Network-Tool
+Masuk ke direktori Network-Tool
 ```bash
 cd Network-Tool
 ```
