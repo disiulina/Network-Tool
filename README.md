@@ -18,3 +18,13 @@ sudo python3 tools.py
 # Demo
 [![demo](https://github.com/disiulina/Network-Tool/blob/main/img/tools.jpg)](https://youtu.be/DXAeTbwbu4w)
 
+Click to see!
+
+# Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octlivatua-patricia/) 
+
+# Author
+[Octlivatua Patricia](https://github.com/disiulina)
+
+
+
